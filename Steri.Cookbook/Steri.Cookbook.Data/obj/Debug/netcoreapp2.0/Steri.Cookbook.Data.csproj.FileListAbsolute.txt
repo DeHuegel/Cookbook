@@ -1,0 +1,12 @@
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\bin\Debug\netcoreapp2.0\Steri.Cookbook.Data.deps.json
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\bin\Debug\netcoreapp2.0\Steri.Cookbook.Data.dll
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\obj\Debug\netcoreapp2.0\Steri.Cookbook.Data.csproj.CoreCompileInputs.cache
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\obj\Debug\netcoreapp2.0\Steri.Cookbook.Data.AssemblyInfoInputs.cache
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\obj\Debug\netcoreapp2.0\Steri.Cookbook.Data.AssemblyInfo.cs
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\obj\Debug\netcoreapp2.0\Steri.Cookbook.Data.csprojResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\bin\Debug\netcoreapp2.0\Steri.Cookbook.Data.pdb
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\bin\Debug\netcoreapp2.0\Steri.Cookbook.Model.dll
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\bin\Debug\netcoreapp2.0\Steri.Cookbook.Model.pdb
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\obj\Debug\netcoreapp2.0\Steri.Cookbook.Data.csproj.CopyComplete
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\obj\Debug\netcoreapp2.0\Steri.Cookbook.Data.dll
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Data\obj\Debug\netcoreapp2.0\Steri.Cookbook.Data.pdb

@@ -1,0 +1,16 @@
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\bin\Debug\netcoreapp2.0\Steri.Cookbook.Api.deps.json
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\bin\Debug\netcoreapp2.0\Steri.Cookbook.Api.runtimeconfig.json
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\bin\Debug\netcoreapp2.0\Steri.Cookbook.Api.runtimeconfig.dev.json
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\bin\Debug\netcoreapp2.0\Steri.Cookbook.Api.dll
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\obj\Debug\netcoreapp2.0\Steri.Cookbook.Api.csprojResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\obj\Debug\netcoreapp2.0\Steri.Cookbook.Api.csproj.CoreCompileInputs.cache
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\obj\Debug\netcoreapp2.0\Steri.Cookbook.Api.AssemblyInfoInputs.cache
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\obj\Debug\netcoreapp2.0\Steri.Cookbook.Api.AssemblyInfo.cs
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\bin\Debug\netcoreapp2.0\Steri.Cookbook.Api.pdb
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\obj\Debug\netcoreapp2.0\Steri.Cookbook.Api.dll
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\obj\Debug\netcoreapp2.0\Steri.Cookbook.Api.pdb
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\bin\Debug\netcoreapp2.0\Steri.Cookbook.Data.dll
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\bin\Debug\netcoreapp2.0\Steri.Cookbook.Model.dll
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\bin\Debug\netcoreapp2.0\Steri.Cookbook.Data.pdb
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\bin\Debug\netcoreapp2.0\Steri.Cookbook.Model.pdb
+c:\users\manuel\documents\visual studio 2017\Projects\Steri.Cookbook\Steri.Cookbook.Api\obj\Debug\netcoreapp2.0\Steri.Cookbook.Api.csproj.CopyComplete
